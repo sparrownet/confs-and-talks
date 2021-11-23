@@ -20,7 +20,7 @@
 | Date | Event | Title | Slides | Recording | Location | Language |
 | ---- | ----- | ----- | ------ | --------- | -------- | -------- |
 | 2021-11-18 | DeveloperWeek Austin 2021 | BrainDB - An Abstraction of the Manager’s Brain into Databases |  |  | US | English |
-| 2021-10-6 | AppsFlyer Engineering Blog | BrainDB - An Abstraction of the Manager’s Brain into Databases |  |  |  | English |
+| 2021-10-6 | AppsFlyer Engineering Blog | BrainDB - An Abstraction of the Manager’s Brain into Databases | [Slides](https://medium.com/p/7aba3f836979) |  |  | English |
 
 
 
